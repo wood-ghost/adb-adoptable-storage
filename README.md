@@ -1,5 +1,8 @@
 # adb-adoptable-storage
 
+## formatting the SD card
+keep the SD card in your phone.
+
 ref: https://zhuanlan.zhihu.com/p/190916713
 
 ```bash
@@ -18,3 +21,11 @@ chmod +x ./adb/linux/adb
 ```
 
 Then the xperia system will help you format the SD card.
+
+## connect the phone
+kde-connect
+
+## Developer Mode
+Click the Serial number for 6 times to start the developer mode.
+- enable USB Debugging
+- enable external storage
