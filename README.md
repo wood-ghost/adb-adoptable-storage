@@ -1,0 +1,1 @@
+# adb-adoptable-storage
